@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.linearcy.shadercontrol.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["FallbackResourceManagerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

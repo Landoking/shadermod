@@ -1,0 +1,3 @@
+pluginManagement { repositories { maven { name = 'Fabric'; url = 'https://maven.fabricmc.net/' }; gradlePluginPortal() } }
+dependencyResolutionManagement { repositories { maven { name = 'Fabric'; url = 'https://maven.fabricmc.net/' } } }
+rootProject.name = 'shader-control'
